@@ -67,7 +67,7 @@ public class MyProgram
        
        for (int i=0; i<list.size(); i++)
        {
-          System.o9ut.println(list.get(i));
+          System.out.println(list.get(i));
        }
        Iterator it = freq.entrySet().iterator();
        while (it.hasNext())
