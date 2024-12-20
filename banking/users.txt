@@ -1,0 +1,4 @@
+USER,ID,PIN,BALANCE,CASH,ACCOUNTS,HISTORY
+bob,1234,2393,3000,10,savings checkings,added 20;subtracted 2 
+bob2,12345,3921,40,102,checking,subtracted 4;added 20
+bob3,123456,3911,3,130,savings,subtracted 3
